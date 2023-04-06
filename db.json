@@ -1,0 +1,267 @@
+{
+  "seller": [
+    {
+      "name": "evan fajar",
+      "email": "evan12455@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "sese",
+      "email": "sese@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "admin",
+      "email": "andi123@gmail.com",
+      "password": "111111",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "name": "evan",
+      "email": "evanfajar12455@gmail.com",
+      "password": "12345678",
+      "id": 16
+    },
+    {
+      "name": "bukanevan",
+      "email": "sese@gmail.com",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "name": "sese",
+      "email": "sese@gmail.com",
+      "password": "abc@123",
+      "id": 18
+    },
+    {
+      "name": "sese",
+      "email": "sese@gmail.com",
+      "password": "abc@123",
+      "id": 19
+    },
+    {
+      "name": "rr",
+      "email": "rr@gmail.com",
+      "password": "abc@i123",
+      "id": 20
+    },
+    {
+      "name": "evan fajar",
+      "email": "evanfajar12455@gmail.com",
+      "password": "abc@123",
+      "id": 21
+    },
+    {
+      "name": "sese",
+      "email": "sese@gmail.com",
+      "password": "abc@123",
+      "id": 22
+    },
+    {
+      "name": "sese",
+      "email": "sese@gmail.com",
+      "password": "abc@123",
+      "id": 23
+    },
+    {
+      "name": "admin",
+      "email": "admin1@gmail.com",
+      "password": "123456",
+      "id": 24
+    },
+    {
+      "name": "rr",
+      "email": "sdas@gamil.com",
+      "password": "123456",
+      "id": 25
+    },
+    {
+      "observe": "response",
+      "id": 26
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "name": "wertuu",
+      "email": "wertu@gmail.com",
+      "password": "123456",
+      "id": 29
+    }
+  ],
+  "products": [
+    {
+      "name": "baygon",
+      "price": "255",
+      "category": "Petualangan",
+      "desc": "move your soootttt11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR-J8jAc5qpQGbAJbdyWVtfWH80e5-qLf1Q&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "obat keras bgtttt",
+      "price": "20",
+      "category": "Kesehatan",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt neque a nisl posuere, id aliquam turpis hendrerit. Curabitur scelerisque sit amet elit et sagittis. Aliquam feugiat ante sit amet semper porta. Ut vel ornare lectus, volutpat sollicitudin sapien. Pellentesque malesuada sem nec convallis pretium. Nulla molestie tempus lectus, vehicula porta nibh finibus at. Integer vitae purus risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum scelerisque metus, elementum tristique ipsum. Praesent convallis turpis sit amet felis placerat posuere. Vivamus lobortis tempor massa vel pellentesque. Proin rutrum condimentum lorem, in rutrum diam lacinia id.\n\nMaecenas erat dolor, aliquet id pharetra et, vehicula a nulla. Aenean interdum justo a arcu lobortis cursus. Donec mauris erat, laoreet posuere nulla ut, ultrices tempor quam. Aenean sit amet enim id leo egestas malesuada tempus ut nibh. Nulla facilisi. Vestibulum at risus orci. Sed in diam cursus risus suscipit sagittis. Mauris quis mattis mi. Vivamus sit amet convallis lorem, pretium porta elit. Nullam neque ex, mattis sed elit eu, tempus convallis dui. Vestibulum rutrum lorem fermentum mauris auctor, eget lacinia elit imperdiet. Sed ut quam cursus mi mattis elementum a a elit. Pellentesque purus dui, euismod a laoreet eget, porttitor eget lectus.",
+      "image": "data:image/jpeg;base64,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",
+      "id": 2
+    },
+    {
+      "name": "susu kotak",
+      "price": "0",
+      "category": "Kesehatan",
+      "desc": "if you like a susu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR-J8jAc5qpQGbAJbdyWVtfWH80e5-qLf1Q&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "lips",
+      "price": "344",
+      "category": "Kesehatan",
+      "desc": "make your day ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR-J8jAc5qpQGbAJbdyWVtfWH80e5-qLf1Q&usqp=CAU",
+      "id": 4
+    },
+    {
+      "name": "dot",
+      "price": "33",
+      "category": "kesehatan",
+      "desc": "tyutreew",
+      "image": "",
+      "id": 5
+    },
+    {
+      "name": "uuuu",
+      "price": "888",
+      "category": "kesehatan",
+      "desc": "seseeee",
+      "image": "",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "rr",
+      "email": "rr@gmail.com",
+      "password": "123455",
+      "id": 1
+    },
+    {
+      "name": "obat keras bgtttt",
+      "email": "dsdfsf",
+      "password": "sdfsdf",
+      "id": 2
+    },
+    {
+      "name": "rr",
+      "email": "rr@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "rr",
+      "email": "rr@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "rr",
+      "email": "rr@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "rr",
+      "email": "evanfajar12455@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "rr",
+      "email": "rr@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "nugi",
+      "email": "sese@gmail.com",
+      "password": "1234566",
+      "id": 8
+    },
+    {
+      "name": "gggg",
+      "email": "g@gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "name": "yanto",
+      "email": "yantoracing@gmail.com",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "name": "baxia",
+      "email": "baxia@gmail.com",
+      "password": "123456",
+      "id": 11
+    }
+  ]
+}

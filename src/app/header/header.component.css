@@ -1,0 +1,21 @@
+#search {
+    margin-left: 20px;
+}
+.result{
+    position: absolute;
+    top: 40px;
+    z-index: 10;
+    display: list-item !important;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    width: 300px;
+}
+
+.result li{
+    padding:5px;
+    border: 1px solid #ddd;
+}
+.result li a {
+    cursor: pointer;
+  color: blueviolet;
+}

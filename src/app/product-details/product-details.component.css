@@ -1,0 +1,10 @@
+img {
+    height: 400px;
+    object-fit: contain;
+    width:100%;
+}
+.btn{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
